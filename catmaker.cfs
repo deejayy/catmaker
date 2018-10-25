@@ -1,0 +1,11 @@
+;leírófájlok listája, prioritási sorrendben lefelé, tehát ha az itt lévő
+;leírófájlokból kettő is szerepel a könyvtárban, akkor az alsóbbikat veszi
+;figyelembe. nem érdemes brutálkodni. wildkardok allowálva vannak, tehát
+; * és ? működik.
+;
+files.bbs
+00index.txt
+00_index.txt
+descript.ion
+!files
+*.alp
